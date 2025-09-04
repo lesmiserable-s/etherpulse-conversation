@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project\\src/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project\\src\\types/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project\\src\\hooks/**)",
+      "Read(/C:\\Users\\Furkan Beydemir\\Desktop\\chatbot-with-puter\\vite-project\\src\\utils/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
