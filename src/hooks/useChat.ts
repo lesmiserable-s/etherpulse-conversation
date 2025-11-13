@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import { sendChatMessage, handleStreamResponse } from '../utils/puter';
 import { saveChatData, loadChatData } from '../utils/storage';
-import { renderMarkdown } from '../utils/markdown';
 import type { Message } from '../types/chat';
 
 export function useChat() {

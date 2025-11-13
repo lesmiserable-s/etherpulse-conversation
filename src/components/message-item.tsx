@@ -1,6 +1,6 @@
 import { Copy, Edit, Trash2, User, Bot } from 'lucide-react';
 import { useRef } from 'react';
-import { renderMarkdown, stripHtml } from '../utils/markdown';
+import { renderMarkdown } from '../utils/markdown';
 import type { Message } from '../types/chat';
 
 interface MessageItemProps {
